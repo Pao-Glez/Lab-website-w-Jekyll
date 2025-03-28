@@ -29,15 +29,10 @@ header_pages:
   - research.md
   - publications.md
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: GengLab
 instragram_username: GengLab
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

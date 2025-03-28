@@ -7,9 +7,9 @@ permalink: /team/
 ### 🧑‍🔬 Principal Investigator
 
 **Dr. Fei Geng**  
-Associate Professor of w Booth School
+Associate Professor, School of Engineering Technology
 Chair of B. Tech Biotechnlogy program  
-Focus: cancer biology, molecular biology, biochemistry
+Focus: cancer biology, biochemistry and cell biology.
 Contact: [email/phone]
 
 ---
@@ -26,5 +26,11 @@ Contact: [email/phone]
 
 ### 🧑‍💻 Alumni
 
-- **Carlos Ge** — Now at Bartek
-- 
+- Carlos Ge — Now at Bartek
+- Shumaim Lastname - Now at University of Toronto
+- Name - Now at [institution]
+
+### Undergraduate Students
+- Dominic D
+- Yufei Liu
+

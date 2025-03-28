@@ -1,6 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: "Geng Lab"
+permalink: /
 ---
+
+Welcome to the **Geng Lab**  
+*Oncology Research and Biomedical Innovation at McMaster University*
+
+---
+
+### 🧪 Explore Our Lab
+
+- [Meet the Team](/team/)
+- [Publications](/publications/)
+- [Contact Us](/contact/)
+
+We use cutting-edge biosensing and imaging tools to tackle lung cancer diagnostics and other biomedical challenges.
